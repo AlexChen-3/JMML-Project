@@ -1,2 +1,2 @@
 # scRNA-seq
-I practice doing scRNA-seq using Scanpy in this Repo
+Studying JMML using Single Cell and Bulk RNA sequencing in Scanpy and PyDeSeq2
