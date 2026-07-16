@@ -1,7 +1,4 @@
-# ==========================================
-# 1. Ignore Raw Genomic Data (Too large for GitHub!)
-# ==========================================
-# This blocks any fastq, bam, sam, vcf, csv, tsv, or zipped count files
+# File types to ignore (Data)
 *.fastq
 *.fq
 *.bam
@@ -14,16 +11,11 @@
 *.zip
 data/
 
-# ==========================================
-# 2. BUT do NOT ignore files in your results folder
-# ==========================================
-# We want to share our small, final differential expression tables!
+# Results file types
 !results/*.csv
 !results/*.tsv
 
-# ==========================================
-# 3. Ignore Python & Jupyter junk
-# ==========================================
+# Python & Jupyter junk
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
