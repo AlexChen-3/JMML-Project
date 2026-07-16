@@ -2,3 +2,5 @@
 
 07/15/2026 -
 - Organized local and Re-organized GitHub directory situation to make it all clean and ready for processing/data
+- Ran PyDESeq2 GSE147523
+  - Found that ['MIR629','PTPRN2-AS1','RAB11FIP1','BCL2A1','LOC105371873','ETS2','TRNA','ZMYND15','LOC105370622','LOC112268175'] are the most statistically significant, differentially expressed genes (JMML vs control)
