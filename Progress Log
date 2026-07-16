@@ -1,7 +1,4 @@
 # Progress Log
 
 07/15/2026 -
-- Loaded GSE147523 counts and human annotations
-- Working on cleaning counts matrix
-
-- Next Steps: Work to run deseq2()
+- Organized local and Re-organized GitHub directory situation to make it all clean and ready for processing/data
