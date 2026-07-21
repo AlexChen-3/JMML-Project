@@ -15,5 +15,5 @@
 07/15/2026:
 - Organized local and Re-organized GitHub directory situation to make it all clean and ready for processing/data
 - Ran PyDESeq2 on GSE147523
-  - Found that ['FCGR3B','HDC','HRH4','SPRY2','IL1R2','LOC107986127','LOC107986924','ETV5','LOC112268150','SLC1A2'] 
+  - Found that ['FCGR3B', 'HDC', 'HRH4', 'SPRY2', 'IL1R2', 'LOC107986127', 'LOC107986924', 'ETV5', 'LOC112268150', 'SLC1A2'] 
     are the most statistically significant, differentially expressed genes (JMML vs Control)
