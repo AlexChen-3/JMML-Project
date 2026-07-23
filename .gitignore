@@ -12,8 +12,9 @@
 data/
 
 # Results file types
-!results/*.csv
-!results/*.tsv
+!Results/**/*.txt
+!Results/**/*.csv
+!Results/**/*.png
 
 # Python & Jupyter junk
 .ipynb_checkpoints/
